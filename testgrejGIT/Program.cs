@@ -11,6 +11,8 @@ namespace testgrejGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Forza Bajen");
+
+            Console.ReadLine();
         }
     }
 }
